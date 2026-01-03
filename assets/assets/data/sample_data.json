@@ -1,0 +1,63 @@
+{
+  "name": "Australia National",
+  "regionalManagers": [
+    {
+      "managerName": "Sarah Regional (South)",
+      "states": [
+        {
+          "name": "Victoria",
+          "areas": [
+            {
+              "name": "Melbourne West Area",
+              "teamLeaders": [
+                {
+                  "name": "John Leader",
+                  "stores": [
+                    {
+                      "id": "4210",
+                      "name": "Store #4210 - Richmond",
+                      "targetPercentage": 0.95,
+                      "latitude": -37.8218,
+                      "longitude": 144.9989,
+                      "tasks": [
+                        {
+                          "id": "task_richmond_01",
+                          "title": "Main Entrance Clean",
+                          "category": "Daily",
+                          "session": "Morning",
+                          "isCompleted": true,
+                          "status": "Completed",
+                          "completedBy": "David Miller",
+                          "dueDate": "2025-01-15T08:00:00",
+                          "processingStartTime": "2025-01-15T08:05:00",
+                          "completedAt": "2025-01-15T08:45:00",
+                          "subTasks": [
+                            { "title": "Sweep debris", "isCompleted": true },
+                            { "title": "Mop floor", "isCompleted": true }
+                          ],
+                          "instructions": ["Use high-visibility signs"],
+                          "tools": ["Mop", "Bucket"],
+                          "comments": [
+                            { "userName": "David Miller", "comment": "Heavy foot traffic today.", "timestamp": "2025-01-15T08:46:00" }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "id": "4822",
+                      "name": "Store #4822 - Hawthorn",
+                      "targetPercentage": 0.90,
+                      "latitude": -37.8223,
+                      "longitude": 145.0358,
+                      "tasks": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

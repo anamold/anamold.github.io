@@ -1,0 +1,117 @@
+[
+  {
+    "id": "task_2025_01_15_1",
+    "storeId": "4210",
+    "title": "Front Entrance Sanitization",
+    "category": "Daily",
+    "session": "Morning",
+    "isCompleted": true,
+    "status": "Completed",
+    "completedBy": "David Miller",
+    "dueDate": "2025-01-15T08:00:00",
+    "processingStartTime": "2025-01-15T08:05:00",
+    "completedAt": "2025-01-15T08:45:00",
+    "subTasks": [
+      { "title": "Wipe handles", "isCompleted": true },
+      { "title": "Sanitize glass", "isCompleted": true },
+      { "title": "Sweep mat", "isCompleted": true },
+      { "title": "Check sensors", "isCompleted": true }
+    ],
+    "instructions": ["Use alcohol-based sanitizer"],
+    "tools": ["Microfiber cloth", "Sanitizer"],
+    "comments": [
+      { "userName": "David Miller", "comment": "High traffic area, extra care taken.", "timestamp": "2025-01-15T08:46:00" }
+    ],
+    "photoUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&q=80&w=1000"
+  },
+  {
+    "id": "task_2025_01_15_2",
+    "storeId": "4210",
+    "title": "Produce Section Floor Scrub",
+    "category": "Daily",
+    "session": "Morning",
+    "isCompleted": false,
+    "status": "Processing",
+    "completedBy": null,
+    "dueDate": "2025-01-15T09:00:00",
+    "processingStartTime": "2025-01-15T09:10:00",
+    "completedAt": null,
+    "subTasks": [
+      { "title": "Sweep debris", "isCompleted": true },
+      { "title": "Run scrubber", "isCompleted": true },
+      { "title": "Mop edges", "isCompleted": true },
+      { "title": "Empty waste", "isCompleted": false }
+    ],
+    "instructions": ["Watch for customers"],
+    "tools": ["Floor scrubber", "Wet floor signs"],
+    "comments": [
+      { "userName": "Sarah Jenkins", "comment": "Machine started acting up, taking longer.", "timestamp": "2025-01-15T09:30:00" }
+    ]
+  },
+  {
+    "id": "task_2025_01_15_3",
+    "storeId": "4210",
+    "title": "Bakery Area Deep Clean",
+    "category": "Daily",
+    "session": "Morning",
+    "isCompleted": false,
+    "status": "Processing",
+    "completedBy": null,
+    "dueDate": "2025-01-15T10:00:00",
+    "processingStartTime": "2025-01-15T10:15:00",
+    "completedAt": null,
+    "subTasks": [
+      { "title": "Clean ovens", "isCompleted": true },
+      { "title": "Wipe counters", "isCompleted": true },
+      { "title": "Floor degrease", "isCompleted": false },
+      { "title": "Drain sanitize", "isCompleted": false }
+    ],
+    "instructions": ["Use heavy duty degreaser"],
+    "tools": ["Degreaser", "Scrub brush"],
+    "comments": []
+  },
+  {
+    "id": "task_2025_01_15_4",
+    "storeId": "4210",
+    "title": "Dairy Fridge Dusting",
+    "category": "Weekly",
+    "session": "Morning",
+    "isCompleted": false,
+    "status": "Processing",
+    "completedBy": null,
+    "dueDate": "2025-01-15T11:00:00",
+    "processingStartTime": "2025-01-15T11:30:00",
+    "completedAt": null,
+    "subTasks": [
+      { "title": "Top shelf dust", "isCompleted": true },
+      { "title": "Fan guard clean", "isCompleted": false },
+      { "title": "Lighting wipe", "isCompleted": false },
+      { "title": "Condenser check", "isCompleted": false }
+    ],
+    "instructions": ["Do not block air flow"],
+    "tools": ["Duster", "Step ladder"],
+    "comments": []
+  },
+  {
+    "id": "task_2025_01_15_5",
+    "storeId": "4210",
+    "title": "Stockroom Organization",
+    "category": "Daily",
+    "session": "Morning",
+    "isCompleted": false,
+    "status": "Pending",
+    "completedBy": null,
+    "dueDate": "2025-01-15T12:00:00",
+    "processingStartTime": null,
+    "completedAt": null,
+    "subTasks": [
+      { "title": "Clear pallets", "isCompleted": false },
+      { "title": "Sweep corners", "isCompleted": false },
+      { "title": "Rubbish removal", "isCompleted": false },
+      { "title": "Safety check", "isCompleted": false }
+    ],
+    "instructions": ["Wear safety boots"],
+    "tools": ["Broom", "Bin"],
+    "comments": []
+  }
+]
