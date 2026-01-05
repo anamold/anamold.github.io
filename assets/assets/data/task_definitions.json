@@ -1,0 +1,50 @@
+{
+  "daily_tasks": [
+    { "id": "d1", "title": "Morning recovery: Clean total store", "ref": "HTG 8", "subTasks": ["Sweep", "Scrub", "Buff", "Back mopping"], "session": "Morning", "tools": ["Scrubber machine", "Buffing pads", "Neutral cleaner"] },
+    { "id": "d2", "title": "All toilets and locker rooms cleaned", "ref": "HTG 5", "subTasks": ["Windows", "Mirrors", "Hand basins", "Taps", "Bins"], "session": "Morning", "tools": ["Disinfectant", "Glass cleaner"] },
+    { "id": "d3", "title": "Offices & team room", "ref": "HTG 6", "subTasks": ["Bins emptied", "Stairs", "Corridors"], "session": "Morning", "tools": ["Vacuum", "Microfiber cloth"] },
+    { "id": "d4", "title": "Empty Sales floor bins & Spot clean customer scales", "ref": "SG 10/26", "subTasks": ["Fresh Produce bins", "Customer Service bins", "Customer scales"], "session": "Morning", "tools": ["Bin liners", "Sanitizer"] },
+    { "id": "d5", "title": "Wipe down and check straps on all trolleys", "ref": "SG 37", "subTasks": ["Baby trolleys", "Specialty trolleys", "Wheelchairs"], "session": "Morning", "tools": ["Sanitizer wipes"] },
+    { "id": "d6", "title": "Fill trolley wipe stand, spot clean unit & empty bin", "ref": "HTG 39", "subTasks": ["Fill wipes", "Spot clean unit", "Empty bin"], "session": "Morning", "tools": ["Wipe refills"] },
+    { "id": "d7", "title": "Spot clean front of store glass", "ref": "SG 25", "subTasks": ["Trolley bay/s", "Glass doors", "Airlock glass", "Windbreaks"], "session": "Morning", "tools": ["Glass cleaner", "Squeegee"] },
+    { "id": "d8", "title": "Spot clean Dairy & Freezer cases", "ref": "SG 10, 11/12", "subTasks": ["Glass doors", "Internal door jams"], "session": "Morning", "tools": ["Glass cleaner"] },
+    { "id": "d9", "title": "Spot clean deli glass", "ref": "SG 10", "subTasks": ["External glass", "Warmer"], "session": "Morning", "tools": ["Glass cleaner"] },
+    { "id": "d10", "title": "Coles Services Department", "ref": "HTG 11", "subTasks": ["Floor", "Machinery", "Sinks", "Drains"], "session": "Morning", "tools": ["Neutral cleaner", "Sanitizer"] },
+    { "id": "e1", "title": "Clean chicken oven/s", "ref": "HTG 9", "subTasks": ["Chicken racks", "Oven internal"], "session": "Evening", "tools": ["Heavy duty degreaser"] },
+    { "id": "e2", "title": "Bakery preparation area", "ref": "HTG 1", "subTasks": ["Scrub floors", "Spot clean walls", "Drains", "Hand basins"], "session": "Evening", "tools": ["Floor scrubber"] },
+    { "id": "e3", "title": "Deli preparation area", "ref": "HTG 1", "subTasks": ["Scrub floors", "Spot clean walls", "Drains", "Hand basins"], "session": "Evening", "tools": ["Floor scrubber"] },
+    { "id": "e4", "title": "Fresh Produce preparation area", "ref": "HTG 1", "subTasks": ["Sweep floors", "Spot clean drains", "Bins"], "session": "Evening", "tools": ["Broom"] },
+    { "id": "e5", "title": "Sushi Sushi end of day floor clean", "ref": "SG 2", "subTasks": ["Mop/Scrub floors", "Clean equipment"], "session": "Evening", "tools": ["Mop", "Bucket"] }
+  ],
+  "weekly_tasks": [
+    { "id": "w1", "title": "Z1: Store entrance areas deep clean", "ref": "HTG 7", "subTasks": ["Fences", "WANZL gates", "Seats", "Stands", "Walls", "Stainless steel"] },
+    { "id": "w2", "title": "Z1: Internal trolley bay", "ref": "SG 25", "subTasks": ["Bollards", "Pillars", "Chrome"] },
+    { "id": "w3", "title": "Z2: Meat sales floor", "ref": "SG 10/12", "subTasks": ["External fridge cases", "Mirrors", "Display cases", "Bollards"] },
+    { "id": "w4", "title": "Z2: Fresh Produce sales floor", "ref": "SG 10/12", "subTasks": ["External cases", "Bumpers", "Stripping", "Mirrors"] },
+    { "id": "w5", "title": "Z2: Bakery sales floor", "ref": "HTG 1", "subTasks": ["Shelves", "Ticket stripping", "Bunks", "Bollards", "Pillars"] },
+    { "id": "w6", "title": "Z3: Freezer sales floor", "ref": "SG 10/11/12", "subTasks": ["External glass doors", "Internal door jams", "Chrome"] },
+    { "id": "w7", "title": "Z4: Dairy sales floor", "ref": "SG 10/11/12", "subTasks": ["External fridge cases", "Doors inside & out", "Bumpers"] },
+    { "id": "w8", "title": "Z5: Grocery sales floor", "ref": "SG 10/12", "subTasks": ["Drink fridges", "Ticket stripping", "Bollards"] },
+    { "id": "w9", "title": "Z5: Gap clean grocery shelving", "ref": "SG 10", "subTasks": ["Priority aisles"] },
+    { "id": "w10", "title": "Z6 BOH: Deli preparation area deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Doors", "Drains", "Equipment", "Phones"] },
+    { "id": "w11", "title": "Z6 BOH: Toilets, locker rooms & offices", "ref": "HTG 5/6", "subTasks": ["Mop & Buff floors", "Walls", "Vents", "Dust lockers", "Vacuum carpet"] },
+    { "id": "w12", "title": "Z6 BOH: Online consolidation area", "ref": "HTG 1", "subTasks": ["Surfaces", "Floors"] },
+    { "id": "w13", "title": "Z6 BOH: Fresh Produce preparation area deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Drains", "Equipment", "Scales"] },
+    { "id": "w14", "title": "Z6 BOH: Meat preparation area", "ref": "HTG 1", "subTasks": ["Sweep floor"] },
+    { "id": "w15", "title": "Z6 BOH: Meat coolroom deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Floors", "Doors", "Door curtains", "Racking"] },
+    { "id": "w16", "title": "Z6 BOH: Fresh Produce coolroom deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Floors", "Doors", "Racking"] },
+    { "id": "w17", "title": "Z6 BOH: Bakery coolroom deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Floors", "Doors", "Racking", "Freezer"] },
+    { "id": "w18", "title": "Z6 BOH: Deli coolroom deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Floors", "Doors", "Racking"] },
+    { "id": "w19", "title": "Z6 BOH: Dairy coolroom deep clean", "ref": "HTG 1", "subTasks": ["Walls", "Floors", "Doors", "Racking"] },
+    { "id": "w20", "title": "Z6 BOH: Online coolroom", "ref": "HTG 1", "subTasks": ["Walls", "Floors", "Doors", "Racking"] },
+    { "id": "w21", "title": "Z6 BOH: Stockroom", "ref": "SG 44/26", "subTasks": ["Sweep & Scrub", "Bollards", "Corners", "Edges", "Timber"] }
+  ],
+  "monthly_tasks": [
+    { "id": "m1", "title": "Z2: Cheese case (external only)", "weekGroup": "A", "subTasks": ["Wipe glass", "Bumpers"] },
+    { "id": "m2", "title": "Z6 BOH: Clean behind moveable items in team room", "weekGroup": "A", "subTasks": ["Fridge", "Vending machine"] },
+    { "id": "m3", "title": "Z6 BOH: Meat preparation area deep clean", "weekGroup": "B", "subTasks": ["Scrub floors", "Walls", "Drains"] },
+    { "id": "m4", "title": "Z6 BOH: Fire cabinets, hose reels, extinguishers", "weekGroup": "C", "subTasks": ["Signage", "Wipe units"] },
+    { "id": "m5", "title": "Z6 BOH: Stockroom deep clean", "weekGroup": "D", "subTasks": ["Walls", "Plastic entry doors", "Off-safety steps"] },
+    { "id": "q1", "title": "Z6 BOH: Gondola leg covers", "weekGroup": "D", "subTasks": ["Full wipe down"] }
+  ]
+}
